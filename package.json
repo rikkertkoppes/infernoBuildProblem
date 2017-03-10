@@ -1,0 +1,20 @@
+{
+  "name": "infernoBuildProblem",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inferno": "^1.3.0-rc.8"
+  },
+  "devDependencies": {
+    "grunt-ts": "^6.0.0-beta.3",
+    "grunt-webpack": "^2.0.1",
+    "inferno-component": "^1.3.0-rc.8",
+    "source-map-loader": "^0.2.0",
+    "typescript": "^2.1.4",
+    "webpack": "^2.2.1"
+  }
+}
